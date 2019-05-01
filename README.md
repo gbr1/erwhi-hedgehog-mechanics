@@ -1,7 +1,7 @@
 # erwhi-hedgehog-mechanics
 ## Description
 In this repository there are all files about custom mechanical parts required to build an ERWHI Hedgehog robot.<br>
-![base](https://user-images.githubusercontent.com/9216366/57024746-a6433680-6c35-11e9-9162-35dd39ca99ed.png)
+![base](https://user-images.githubusercontent.com/9216366/57025084-7cd6da80-6c36-11e9-9367-b0daebce8c4b.png)
 <br>
 
 ## How to print
